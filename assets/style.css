@@ -267,6 +267,12 @@ section#philosophy{
   align-items: center;
 }
 
+.icon{
+  font-size: 40px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
 .philosophy-card h3 {
   margin-bottom: 10px;
   font-size: 1.25rem;
@@ -280,8 +286,13 @@ section#philosophy{
   color: #393939;
 }
 
+.closing-philosophy{
+  padding: 20px;
+  margin-bottom: 10px;
+}
 .closing-philosophy p{
   font-size: 1.1rem;
+  font-weight: bold;
   font-style: italic;
   color: var(--hover-color);
 }
